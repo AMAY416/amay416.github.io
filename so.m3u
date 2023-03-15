@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="SomaliNationalTV" tvg-logo="https://i.imgur.com/2y8gv7V.png" group-title="SOMALIA",Somali National TV (576p)
 https://ap02.iqplay.tv:8082/iqb8002/s4ne/playlist.m3u8
 #EXTINF:-1 tvg-id="SomCable" tvg-logo="" group-title="SOMALIA",Somali cable (576p)
